@@ -6,7 +6,7 @@ public class Main {
    Scanner entrada = new Scanner(System.in);
    
    
-   int Operaciones = 0;
+   int Operaciones = 1;
 		System.out.println("1-Circulo");
 		System.out.println("2-Cuadrado");
 		System.out.println("3-Rectangulo");
