@@ -10,7 +10,7 @@ public class Main {
 		System.out.println("1-Circulo");
 		System.out.println("2-Cuadrado");
 		System.out.println("3-Rectangulo");
-		System.out.println("4-Triangulo");
+		System.out.println("4-Polígono");
 		System.out.println("Por favor, elige una figura ");
 		Operaciones = entrada.nextInt();
 		
